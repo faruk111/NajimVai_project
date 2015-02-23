@@ -1,0 +1,15 @@
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\SchoolManagement.ConsoleApplication.exe.config
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\SchoolManagement.ConsoleApplication.exe
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\SchoolManagement.ConsoleApplication.pdb
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\SchoolManagement.Manager.dll
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\SchoolManagement.Model.dll
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\EntityFramework.dll
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\SchoolManagement.Manager.pdb
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\SchoolManagement.Model.pdb
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\EntityFramework.xml
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\obj\Debug\SchoolManagement.ConsoleApplication.csprojResolveAssemblyReference.cache
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\obj\Debug\SchoolManagement.ConsoleApplication.exe
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\obj\Debug\SchoolManagement.ConsoleApplication.pdb
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\App.config
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+I:\c##\SchoolManagement.Model\SchoolManagement.ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
