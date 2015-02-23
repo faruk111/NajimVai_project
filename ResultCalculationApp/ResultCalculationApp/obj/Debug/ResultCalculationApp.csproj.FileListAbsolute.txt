@@ -1,0 +1,9 @@
+I:\c##\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe.config
+I:\c##\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe
+I:\c##\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.pdb
+I:\c##\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.csprojResolveAssemblyReference.cache
+I:\c##\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.Form1.resources
+I:\c##\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.Properties.Resources.resources
+I:\c##\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.csproj.GenerateResource.Cache
+I:\c##\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.exe
+I:\c##\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.pdb
